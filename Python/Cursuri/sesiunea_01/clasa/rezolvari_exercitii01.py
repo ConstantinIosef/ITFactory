@@ -8,14 +8,17 @@ e. Printeaza variabilele definite la punctele anterioare.
 """
 
 
+
 """
 EX2: Folosind o singura linie de cod, defineste 2 variabile, de tip int, cu valoarea 10.
 """
 
 
+
 """
 EX3: Folosind o singura linie de cod, initializeaza/ defineste doua variabile de tip string cu valori diferite.
 """
+
 
 
 """
@@ -24,11 +27,13 @@ Afiseaza in consola un mesaj care sa contina cele doua variabile.
 """
 
 
+
 """
 EX5:
 a. Defineste doua variabile: nume (string) si varsta (int).
 b. Folosind f-string, afiseaza in consola, o propozitie care sa contina cele doua variabile.
 """
+
 
 
 """
@@ -40,6 +45,7 @@ d. Defineste o variabila de tip bool, afiseaz-o in consola. Afiseaza de asemenea
 """
 
 
+
 """
 EX7: 
 a. Defineste o variabila de tip int. Afiseaz-o in consola.
@@ -47,6 +53,7 @@ b. Afiseaza in consola tipul variabilei definite la punctul a, folosind functia 
 c. Converteste variabila de tip int de la punctul a, la tipul float si salveaza rezultatul intr-o alta variabila.
 d. Afiseaza in consola tipul variabilei generate la punctul c.
 """
+
 
 
 """
@@ -59,11 +66,13 @@ Ce observi?
 """
 
 
+
 """
 EX9: Citeste de la tastatura un nume de produs.
 Salveaza rezultatul intr-o variabila.
 Afiseaza un mesaj care sa contina variabila salvata.
 """
+
 
 
 """

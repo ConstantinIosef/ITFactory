@@ -6,6 +6,14 @@ c. Acceseaza al doilea element din lista si afiseaza-l.
 d. Afiseaza lungimea listei.
 """
 
+# a
+ex1_lista = [1, 2, 3]
+# b
+
+# c
+print(ex1_lista[1])
+# d
+print(len(ex1_lista))
 
 """
 EX2:
